@@ -1,0 +1,16 @@
+{
+  "name": "my-school-form",
+  "version": "1.0.0",
+  "description": "Form submission to Telegram for Vercel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "formidable": "^3.5.1"
+  }
+}
